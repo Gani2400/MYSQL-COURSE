@@ -1,2 +1,2 @@
-# MYSQL-OCURSE-files
+# MYSQL-COURSE-files
 MYSQL files
