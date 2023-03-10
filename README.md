@@ -1,2 +1,2 @@
-# python-files
-python jupyter files
+# MYSQL-OCURSE-files
+MYSQL files
